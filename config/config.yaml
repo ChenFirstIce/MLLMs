@@ -1,0 +1,12 @@
+vision:
+  d_model: 512
+  nhead: 8
+  num_layers: 2
+text:
+  input_dim: 10
+  d_model: 512
+  nhead: 8
+  num_layers: 2
+llm:
+  input_dim: 1024
+  output_dim: 1
